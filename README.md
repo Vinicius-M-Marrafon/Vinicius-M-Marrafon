@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello, World
+
+🌱 I'm currently learning Reverse Engineering (RE) using Dynamic Binary File Visualization
 
 <!--
 **Vinicius-M-Marrafon/Vinicius-M-Marrafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
