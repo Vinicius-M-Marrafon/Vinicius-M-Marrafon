@@ -1,6 +1,6 @@
 ## Hello, World
 
-🌱 I'm currently studying Convolutional Neural Netword (**CNN**) for malware classification and Data Science.
+🌱 I'm currently studying Convolutional Neural Network (**CNN**) for malware classification and Data Science.
 
 <!--
 **Vinicius-M-Marrafon/Vinicius-M-Marrafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
