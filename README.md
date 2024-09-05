@@ -1,6 +1,7 @@
 ## Hello, World
 
-🌱 I'm currently studying Convolutional Neural Network (**CNN**) for malware classification and Data Science.
+- 🔭 I’m currently working on a project to classify financial time series according to **regime switching** and **trend**.
+- 🌱 I'm currently studying Convolutional Neural Network (**CNN**) and Data Science.
 
 <!--
 **Vinicius-M-Marrafon/Vinicius-M-Marrafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
