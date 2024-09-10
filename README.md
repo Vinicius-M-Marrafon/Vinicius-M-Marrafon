@@ -1,7 +1,7 @@
-## Hello, World
+# Hello, World
 
-- 🔭 I’m currently working on a project to classify financial time series according to **regime switching** and **trend**.
-- 🌱 I'm currently studying Data Science.
+- 🔭 Atualmente trabalho em um projeto de iniciação científica que consiste em classificar Séries Temporais Financeiras usando Imagens Sintéticas
+- 🌱 Atualmente estou buscando me aprofundar em Ciência de Dados
 
 <!--
 **Vinicius-M-Marrafon/Vinicius-M-Marrafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
