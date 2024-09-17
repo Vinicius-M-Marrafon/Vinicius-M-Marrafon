@@ -1,7 +1,7 @@
 # Hello, World
 
-- 🔭 Atualmente trabalho em um projeto de iniciação científica que consiste em classificar Séries Temporais Financeiras usando Imagens Sintéticas
-- 🌱 Atualmente estou buscando me aprofundar em Ciência de Dados
+- 🔭 Estou desenvolvendo pesquisas sobre solução de predição de Séries Temporais Financeiras através do Aprendizado de Máquina
+- 🌱 Buscando me aprofundar no universa da Ciência de Dados
 
 <!--
 **Vinicius-M-Marrafon/Vinicius-M-Marrafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
