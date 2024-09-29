@@ -1,7 +1,7 @@
 # Hello, World
 
 - 🔭 Estou desenvolvendo pesquisas sobre solução de predição de Séries Temporais Financeiras através do Aprendizado de Máquina
-- 🌱 Buscando me aprofundar no universo da Ciência de Dados
+- 🌱 Buscando me aprofundar no universo da Ciência de Dados (Universidade dos Dados, Introduction to Artifical Intelligence - CS50AI)
 
 <!--
 **Vinicius-M-Marrafon/Vinicius-M-Marrafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
